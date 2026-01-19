@@ -1,0 +1,5 @@
+# Core modules
+notebook
+# Helper modules
+python-doctr
+pandas
