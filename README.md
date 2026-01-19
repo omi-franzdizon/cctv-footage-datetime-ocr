@@ -1,5 +1,5 @@
 # cctv-footage-datetime-ocr
-
+Look in the `datetime-extraction-demo.ipynb` to see the notebook containing the code and demo for the OCR (Can be done in the webview of `github.com`).
 ## For initial setup
 Create a venv then activate
 ```
