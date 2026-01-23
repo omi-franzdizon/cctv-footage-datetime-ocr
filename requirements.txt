@@ -1,5 +1,16 @@
 # Core modules
-notebook
-# Helper modules
 python-doctr
+notebook
+torch
+torchvision
+transformers
+einops
+tokenizers==0.20.3
+addict 
+easydict
+paddlepaddle==3.2.1 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+paddleocr[doc-parser]
+llama-cpp-python
+# Helper modules
 pandas
+matplotlib
